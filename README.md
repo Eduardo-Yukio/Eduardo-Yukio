@@ -1,6 +1,5 @@
 ## Bem vindo! 👋
 
-<!--
 -  Nome: Eduardo Yukio Garrafa Ishihara
 -  Pronomes: Ele / Dele
 -  Curso: Bacharelado em Estatística
@@ -16,6 +15,5 @@ Se você tem certa familiaridade com o GitHub, deve considerar esse "ReadMe" esd
 
 
 -  Contatos:
-  -  Email profissional: eduardoyukio.ishihara@usp.br
+    -  Email profissional: eduardoyukio.ishihara@usp.br
   
--->
